@@ -7,6 +7,19 @@ var builder = WebApplication.CreateBuilder(args);
 // Configuração de serviços
 builder.Services.AddControllers();
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(builder =>
+    {
+        builder.AllowAnyOrigin() // Permitir qualquer origem
+               .AllowAnyMethod() // Permitir qualquer método HTTP
+               .AllowAnyHeader(); // Permitir qualquer cabeçalho
+    });
+});
+
+// Configuração de URLs
+builder.WebHost.UseUrls("http://localhost:5252", "https://localhost:7104");
+
 var app = builder.Build();
 
 // Configuração do pipeline de requisições
