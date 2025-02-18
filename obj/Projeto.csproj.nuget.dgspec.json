@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\benep\\OneDrive\\Desktop\\MAXIPROD\\Projeto\\Projeto.csproj": {}
+    "C:\\Users\\benep\\OneDrive\\Desktop\\MAXIPROD\\Projeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\benep\\OneDrive\\Desktop\\MAXIPROD\\Projeto\\Projeto.csproj": {
+    "C:\\Users\\benep\\OneDrive\\Desktop\\MAXIPROD\\Projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\benep\\OneDrive\\Desktop\\MAXIPROD\\Projeto\\Projeto.csproj",
+        "projectUniqueName": "C:\\Users\\benep\\OneDrive\\Desktop\\MAXIPROD\\Projeto.csproj",
         "projectName": "Projeto",
-        "projectPath": "C:\\Users\\benep\\OneDrive\\Desktop\\MAXIPROD\\Projeto\\Projeto.csproj",
+        "projectPath": "C:\\Users\\benep\\OneDrive\\Desktop\\MAXIPROD\\Projeto.csproj",
         "packagesPath": "C:\\Users\\benep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\benep\\OneDrive\\Desktop\\MAXIPROD\\Projeto\\obj\\",
+        "outputPath": "C:\\Users\\benep\\OneDrive\\Desktop\\MAXIPROD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\benep\\AppData\\Roaming\\NuGet\\NuGet.Config"
