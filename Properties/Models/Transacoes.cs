@@ -7,8 +7,8 @@ namespace SistemaControleGastos.Models
     {
         Despesa,
         Receita
-    
     }
+
     // Definir a classe transação
     public class Transacao
     {
@@ -18,12 +18,12 @@ namespace SistemaControleGastos.Models
         public decimal Valor { get; set; } 
         public TipoTransacao Tipo { get; set; } 
         public int PessoaId { get; set; } // Identificador da pessoa associada a transação
-    }
-    
-     //Construtor que inicializa a transação com uma descrição
-    //Se for nulo, realiza excessão ArgumentNullException
-    public Transacao(string descricao)
-    {
-        Descricao = descricao ?? throw new ArgumentNullException(nameof(descricao),"Descrição nao pode ser nulo.");
+
+        // Construtor que inicializa a transação com uma descrição
+        // Se for nulo, realiza exceção ArgumentNullException
+        public Transacao(string descricao)
+        {
+            Descricao = descricao ?? throw new ArgumentNullException(nameof(descricao), "Descrição não pode ser nulo.");
+        }
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\benep\OneDrive\Desktop\MAXIPROD\obj\Debug\net9.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\benep\OneDrive\Desktop\MAXIPROD\obj\Debug\net9.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benep\OneDrive\Desktop\MAXIPROD\obj\Debug\net9.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\benep\OneDrive\Desktop\MAXIPROD\obj\Debug\net9.0\Projeto.AssemblyInfo.cs
+C:\Users\benep\OneDrive\Desktop\MAXIPROD\obj\Debug\net9.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\benep\OneDrive\Desktop\MAXIPROD\obj\Debug\net9.0\Projeto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\benep\OneDrive\Desktop\MAXIPROD\obj\Debug\net9.0\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\benep\OneDrive\Desktop\MAXIPROD\obj\Debug\net9.0\Projeto.sourcelink.json
